@@ -1,0 +1,10 @@
+*.swp
+*.pyc
+
+config/
+done/
+job_queue/
+results/
+running/
+
+setting.yml
